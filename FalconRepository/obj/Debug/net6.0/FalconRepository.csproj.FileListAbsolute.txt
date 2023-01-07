@@ -1,0 +1,17 @@
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\bin\Debug\net6.0\FalconRepository.deps.json
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\bin\Debug\net6.0\FalconRepository.runtimeconfig.json
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\bin\Debug\net6.0\FalconRepository.dll
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\bin\Debug\net6.0\FalconRepository.pdb
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\bin\Debug\net6.0\FalconDomain.dll
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\bin\Debug\net6.0\FalconDomain.pdb
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.csproj.AssemblyReference.cache
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.AssemblyInfoInputs.cache
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.AssemblyInfo.cs
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.csproj.CoreCompileInputs.cache
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.csproj.CopyComplete
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.dll
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\refint\FalconRepository.dll
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.pdb
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\FalconRepository.genruntimeconfig.cache
+D:\_code\Zuppo\3-DesafioCamadas\FalconDomain\FalconRepository\obj\Debug\net6.0\ref\FalconRepository.dll
